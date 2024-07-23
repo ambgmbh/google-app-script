@@ -1,4 +1,5 @@
 // Rem Sample Code
+// REM Sample code
 #include <cuda_runtime.h>
 
 // Define a structure to hold transaction data
