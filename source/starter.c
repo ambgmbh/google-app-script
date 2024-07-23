@@ -1,3 +1,7 @@
+// Cam Consulting e.Kfm (germany)
+// (c) by Edgar Wahl
+// (copyrighted 2010,11,12, .... 2024)
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
