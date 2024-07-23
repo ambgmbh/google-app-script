@@ -1,5 +1,5 @@
-REM Sample
-nt current_block_index = 0;
+// REM Sample
+int current_block_index = 0;
 
 void add_data_to_cache(void* data, size_t size) {
   if (block_array[current_block_index].size + size > 1 * 1024 * 1024 * 1024) {
