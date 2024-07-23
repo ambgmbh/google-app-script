@@ -1,4 +1,4 @@
-REM SAmple
+// REM SAmple
 #define MAX_BLOCKS 512
 Block* block_array;
 
