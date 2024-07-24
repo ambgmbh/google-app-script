@@ -1,7 +1,7 @@
-// Erzeugen der Datenbank
+-- Erzeugen der Datenbank
 CREATE DATABASE count;
 
-// ERzeugen der Tabelle devices 
+-- Erzeugen der Tabelle devices 
 
   CREATE TABLE devices (
     id INT AUTO_INCREMENT PRIMARY KEY,
@@ -20,9 +20,9 @@ CREATE DATABASE count;
     operating_system VARCHAR(100) NOT NULL
 );
 
-// Erzeuge device_location
-// Die Adresse des Gerätes ist immer auf Bezug einer öffentlichen Einrichtung angegeben
-// Es dürfen keine privatadressen angegeben werden. 
+-- Erzeuge device_location
+-- Die Adresse des Gerätes ist immer auf Bezug einer öffentlichen Einrichtung angegeben
+-- Es dürfen keine privatadressen angegeben werden. 
   
 USE count;
 
