@@ -1,4 +1,4 @@
-// erstelle die Tabelle Mastrix
+-- Erstelle die Tabelle Mastrix 
 CREATE TABLE matrix_tabelle (
   Zeile INT PRIMARY KEY,
   Spalte1 DECIMAL(10,2),
