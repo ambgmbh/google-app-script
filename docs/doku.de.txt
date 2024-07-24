@@ -1,1 +1,30 @@
 
+Informationen !!! 
+
+In diesem Verzeichnis befinden sich verschiedene Dokmente. Sowie einige Regeln zum Thema  Programmieren wie wir us das vorstellen.
+Da wir in Deutschland sitzen, ein deutsches Programm entwickeln, unter dem Motto Made in Germany. Das bedeutet das wir hier in 
+deutscher Sprache entwickeln, diskutieren und die Fragen zur Software transparent entwickeln. Die Software und ihre einzelnen 
+Abschnitte sind in C und Java sowie Python zulässig. Je nach funktionolitat müssen wir hier so agieren um Stärken zu nutzen und
+die Schwächen zu umgehen. 
+
+1. Keine Programmiersprache kann alles. 
+
+Programmiersprachen entwickeln sich nicht nur aus einer Idee im Kopf alleine, sondern Sie sind oftmals deswegen entstanden da 
+ein bestimmtes Problem nicht gelöst wurde, oder der Aufwand der Lösung zu hoch war. In der Anwendungsentwicklung für den Kunden
+ist die Zeit und der Aufwand die kostenentscheidende Frage. 
+
+2. Anwenderöberflächen 
+
+Sind in C zu programmieren und rufen eigenständige Module auf. Somit sind dieser immer bei den Entwicklern in der Hand die diese 
+auch programmieren. C oder C# oder C++ stellt sich hier die Frage. Systeme wie das Raspberry PI werden mit C++ programmiert, da 
+diese natürlich eine Speicheroptimierung und einen optimierten Code benötigen.
+
+Desktopanwendungen benötigen zuerst5 die Anwenderfreundlichkeit. Oft ist der Anwender nicht der Spezialist sondern ein Verkäufer
+oder in einem gewerblichen Sektor in der Beratung geschult. 
+
+Software kann nun die Fragen beantworten die der Kunde stellt, in dem man sich vorher Gedanken macht, welche Fragen sind für die 
+Kundenentscheidung notwendig zu beantworten. 
+
+Nur Transparenz und klar erkennbare verständliche Informationen führen zum Ziel. 
+
+The Solar Team (AMB)
