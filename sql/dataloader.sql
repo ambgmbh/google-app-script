@@ -1,3 +1,4 @@
+-- Daten laden von einem .CSV dynamisch
 LOAD DATA LOCAL INFILE 'matrix.csv'
 INTO TABLE matrix_tabelle
 FIELDS TERMINATED BY ','
