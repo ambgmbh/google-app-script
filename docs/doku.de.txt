@@ -13,7 +13,7 @@ Programmiersprachen entwickeln sich nicht nur aus einer Idee im Kopf alleine, so
 ein bestimmtes Problem nicht gelöst wurde, oder der Aufwand der Lösung zu hoch war. In der Anwendungsentwicklung für den Kunden
 ist die Zeit und der Aufwand die kostenentscheidende Frage. 
 
-2. Anwenderöberflächen 
+2. Anwenderoberflächen 
 
 Sind in C zu programmieren und rufen eigenständige Module auf. Somit sind dieser immer bei den Entwicklern in der Hand die diese 
 auch programmieren. C oder C# oder C++ stellt sich hier die Frage. Systeme wie das Raspberry PI werden mit C++ programmiert, da 
