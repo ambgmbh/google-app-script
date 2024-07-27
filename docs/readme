@@ -1,1 +1,6 @@
 // Description
+
+Wenn es im Quellcode um die Dokumentation geht, dann bitte ich die Abschnitte so zu dokumentieren das die Funktion benannt ist. Siehe in den Sample Files. 
+Ebenso ist wichtig das Corporate Identity. Alle Files erhalten am Ende nochmals den Hinweis auf die MIT License, und das alle Rechte vorbehalten sind. 
+
+Im Header steht nur dann Ihr Name und Compaany, sofern die gesamte Section oder Programm teile erstellt wurden.
